@@ -3,6 +3,6 @@
 ### Installation
 ```bash
 pkg install git -y
-git clone https://github.com/YOUR_USERNAME/dark-termux-animated.git
+git clone https://github.com/scamer0018/TMX-LUCIFER-.git
 cd dark-termux-animated
 bash install.sh
